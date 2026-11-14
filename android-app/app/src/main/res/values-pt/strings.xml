@@ -1,0 +1,7 @@
+<resources>
+    <string name="execution_log_title">Exportar log de execução?</string>
+    <string name="execution_log_privacy_warning">O log pode conter instruções de rota do Google Maps, horários de chegada, velocidades e eventos de conexão Bluetooth. Ele fica neste aparelho até você escolher exportá-lo. Revise e remova dados privados antes de compartilhar.</string>
+    <string name="export_log">Exportar log</string>
+    <string name="execution_log_exported">Log exportado</string>
+    <string name="execution_log_export_failed">Não foi possível exportar o log: %1$s</string>
+</resources>
